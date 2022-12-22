@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @carlosquadros-br
 - 👀 I’m interested in backend
-- 🌱 I’m currently learning Node.JS and typeScript
+- 🌱 I’m currently learning Angular 15, typeScript and tailwindCSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
