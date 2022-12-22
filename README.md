@@ -2,7 +2,8 @@
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning Angular 15, typeScript and tailwindCSS
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 🤝 Connect with me:
+- Intagram 
 
 <!---
 carlosquadros-br/carlosquadros-br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
