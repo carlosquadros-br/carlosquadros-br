@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @carlosquadros-br
+- 👋 Hi. I am Carlos Quadros
+- Brazilian
 - 👀 I’m interested in backend
 - 🌱 I’m currently learning Angular 15, typeScript and tailwindCSS
 - 💞️ I’m looking to collaborate on ...
